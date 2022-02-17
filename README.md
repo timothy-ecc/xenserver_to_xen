@@ -1,3 +1,7 @@
+Updated to run on Python3. You will also have to ensure that your Ref:XX folder has rw permissions. My small contribution.
+
+[Original Documentation Below]
+
 xenserver_to_xen
 ================
   This project is for migrating from xenserver `*.xva` image to xen `*.img` image.
